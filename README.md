@@ -1,1 +1,1 @@
-Este es mi proyecto de control de versiones modificado
+Este es mi proyecto de control de versiones modificado edicion-remota
